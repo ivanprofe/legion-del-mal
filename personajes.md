@@ -1,5 +1,5 @@
-mortadelo
-filemón
-pepe gotera
-otilio
+- mortadelo
+- filemón
+- pepe gotera
+- otilio
 
